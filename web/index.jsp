@@ -9,8 +9,8 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Salary Calculator</title
-        <link href="C:\Users\Tyler\Documents\NetBeansProjects\HMWK3 Salary Calculator\web\style.css" rel="stylesheet" type="text/css" >
+        <title>Salary Calculator</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
         <h1>Salary Calculator</h1>

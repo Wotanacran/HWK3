@@ -10,6 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Salary Info</title>
+        <link href="style.css" rel="stylesheet" type="text/css" >
     </head>
     
     <%
@@ -58,8 +59,8 @@
     
     
     <body>
-        <h1>Salary Info</h1>
         <table border="1">
+            <h1>Salary Info</h1>
             <tbody>
                 <tr>
                     <td>Total Hours Worked:</td>
